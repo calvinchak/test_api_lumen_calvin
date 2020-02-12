@@ -1,5 +1,5 @@
 <?php
 
 phpinfo();
-echo "testing aja"
+echo "HAI RATU CANTIK"
 ?>
